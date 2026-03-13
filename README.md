@@ -1,7 +1,7 @@
 
 # themeswitcher #
 # Wallpaper changer script + insta applying newly generated wal colors (swww + wal)
-
+tested on Arch Linux + Hyprland + Kitty terminal
 
 
 # Software Dependencies #
