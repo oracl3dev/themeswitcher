@@ -33,9 +33,8 @@ repo-root/
 │   ├── restore-theme.sh
 │   └── theme-picker.sh
 ├── themes/
-│   └── themes.conf          # theme_name|/full/path/to/wallpaper.png
-└── wallpapers/              # optional sample wallpapers
-
+│   └── themes.conf           # format: theme_name|/full/path/to/wallpaper.png
+└── wallpapers/               # folder with your wallpapers !
 themes.conf format:
 
 `theme_name|/full/path/to/wallpaper.png`
