@@ -26,12 +26,13 @@ kitty	- terminal emulator
 wofi	- menu launcher for selecting themes/wallpapers
 
 # Folder Structure #
+
 repo-root/
 ├── README.md
 ├── scripts/
-│   ├── apply-theme.sh
+│  ├── apply-theme.sh
 │   ├── restore-theme.sh
-│   └── theme-picker.sh
+│  └── theme-picker.sh
 ├── themes/
 │   └── themes.conf           # format: theme_name|/full/path/to/wallpaper.png
 └── wallpapers/               # folder with your wallpapers !
