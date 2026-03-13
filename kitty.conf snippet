@@ -1,0 +1,2 @@
+# Add this to ~/.config/kitty/kitty.conf
+include ~/.cache/wal/colors-kitty.conf
