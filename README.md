@@ -14,7 +14,7 @@ New Kitty terminals inherit colors automatically.
 
 Update all running Kitty terminals instantly (optional).
 
-# Prerequisites# 
+# Prerequisites # 
 
 Install the following tools on Arch Linux:
 
